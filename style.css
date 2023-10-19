@@ -1,3 +1,8 @@
+/*seletor universal*/
+*{
+    font-weight: bold;
+}
+
 body{
     background: rgb(75, 216, 75);
 }
@@ -5,4 +10,31 @@ body{
 h3{
     color: purple;
     font-family: sans-serif;
+}
+
+/*seletor de tag*/
+p{
+    background-color: #db6478;
+    color: white;
+}
+
+/*seletor de id*/
+#texto{
+    color: black;
+    background-color: blueviolet;
+}
+
+/*seletor de classes*/
+.text2{
+    color: orange;
+    background: whitesmoke;
+}
+
+/*seletor de atributos*/
+[title]{
+    color: #810931
+}
+
+[title="maca"]{
+    color: red;
 }

@@ -38,3 +38,21 @@ Todos os navegadores possuem uma ferramenta para desenvolvedores com essa finali
 >CTRL + SHIFT + i<br>
 >CTRL + SHIFT + c<br>
 >F12
+
+## Seletores
+Ele define quais elementos iremos aplicar o CSS.
+
+### Seletor de tags
+Busca elementos por uma tag HTML específica.
+
+### Seletor de id
+Busca elementos através do atributo id.
+
+### Seletor de classes
+Busca elementos através do atributo class.
+
+### Seletores universais
+Seleciona todos os elementos HTML.
+
+### Seletores de atributo
+Seleciona elementos que possuem um atributo específico em nosso documento HTML. Conseguimos também buscar atributo com um valor específico.
