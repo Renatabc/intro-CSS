@@ -38,3 +38,27 @@ p{
 [title="maca"]{
     color: red;
 }
+
+/*dimensionamento e espaçamento*/
+div{
+    background: yellowgreen;
+    /*largura*/
+    width: 300px;
+    /*altura*/
+    height: 300px;
+}
+
+/*margin: espaçamento em volta dos elementos, por fora das bordas*/
+/*padding: espaçamento em volta dos elementos, por dentro das bordas*/
+#elemento1{
+    background-color: rgb(3, 70, 47);
+    margin: 45px;
+    padding: 20px;
+}
+
+#elemento2{
+    background-color: #810931;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding-top: 40px;
+}
